@@ -21,6 +21,7 @@ To use the Cayman theme:
     ```ruby
     gem "github-pages", group: :jekyll_plugins
     ```
+3. Run locally `bundle install` then `bundle exec jekyll serve` don't forget to install bundler first `sudo gem install bundler`
 
 ## Customizing
 
